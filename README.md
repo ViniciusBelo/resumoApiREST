@@ -11,19 +11,19 @@ Enquanto REST refere-se às restrições arquiteturais, RESTful é usado para de
 ## HTTP verbs
 
 Os verbos HTTP desempenham um papel crucial em APIs RESTful. Alguns exemplos incluem:
-  *GET: Recupera um recurso.
-  *POST: Cria um novo recurso.
-  *PUT: Substitui todas as representações de um recurso.
-  *DELETE: Remove um recurso.
-  *PATCH: Aplica modificações parciais em um recurso.
+  * GET: Recupera um recurso.
+  * POST: Cria um novo recurso.
+  * PUT: Substitui todas as representações de um recurso.
+  * DELETE: Remove um recurso.
+  * PATCH: Aplica modificações parciais em um recurso.
 
 ## HTTP Status Code
 
 Os códigos de status HTTP indicam o resultado de uma operação. Exemplos incluem:
-  *200 OK: Sucesso na requisição.
-  *201 Created: Criação bem-sucedida de um novo recurso.
-  *404 Not Found: Recurso não encontrado.
-  *500 Internal Server Error: Erro interno no servidor.
+  * 200 OK: Sucesso na requisição.
+  * 201 Created: Criação bem-sucedida de um novo recurso.
+  * 404 Not Found: Recurso não encontrado.
+  * 500 Internal Server Error: Erro interno no servidor.
 
 ## Como as APIs de REST funcionam
 
@@ -32,12 +32,14 @@ As APIs de REST utilizam solicitações HTTP para realizar operações CRUD (Cri
 ## Métodos de requisição HTTP
 
 Os métodos HTTP, também chamados de verbos HTTP, indicam a ação a ser executada em um recurso:
-*GET: Recupera a representação de um recurso.
-*POST: Submete uma entidade a um recurso, causando alterações.
-*PUT: Substitui todas as representações de um recurso.
-*DELETE: Remove um recurso.
-*PATCH: Aplica modificações parciais em um recurso.
+* GET: Recupera a representação de um recurso.
+* POST: Submete uma entidade a um recurso, causando alterações.
+* PUT: Substitui todas as representações de um recurso.
+* DELETE: Remove um recurso.
+* PATCH: Aplica modificações parciais em um recurso.
+
 Em resumo, as APIs REST proporcionam uma maneira eficiente e flexível de interação entre sistemas, seguindo princípios como verbos HTTP, códigos de status e respeitando as restrições da arquitetura REST.
-    ---
+    
+---
 
 Autor do resumo: Vinícius Belo - 01555920
